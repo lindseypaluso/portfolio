@@ -2,7 +2,7 @@
 /* ===== UNIVERSAL ===== */
 /*=======================*/
 * {
-  font-family: 'Prompt', sans-serif;
+  font-family: 'Spartan', sans-serif;
 }
 
 html {
@@ -21,7 +21,7 @@ body {
 }
 
 .section-title {
-  background-color: #f73859;
+  background-color: #4aaaa5;
   color: white;
   font-size: 1rem;
   font-weight: 900;
@@ -35,8 +35,10 @@ body {
 /*====================*/
 /* ===== NAVBAR ===== */
 /*====================*/
+
+
 .navbar {
-  background-color: #283149;
+  background-color: #020c42;
   color: white;
   display: flex;
   justify-content: center;
@@ -88,8 +90,12 @@ body {
   clip-path: polygon(0 0, 100% 0, 100% 90%, 0 100%);
 }
 
+.title  {
+  padding-top: ;
+}
+
 .title-text {
-  background-color: #f73859;
+  background-color: #4aaaa5;
   color: white;
   font-size: 1.2rem;
   margin: 0 auto;
@@ -100,7 +106,7 @@ body {
 }
 
 .subtitle-text {
-  background-color: #f73859;
+  background-color: #4aaaa5;
   color: white;
   font-size: 1rem;
   margin: 20px auto 0 auto;
@@ -121,7 +127,7 @@ body {
 .github-svg,
 .instagram-svg,
 .linkedin-svg {
-  fill:  #283149;
+  fill:  #020c42;
   height: 40px;
   margin: 5px;
   width: 40px;
@@ -156,7 +162,7 @@ body {
 /* ===== SKILLS ===== */
 /*====================*/
 .skills {
-  background-color: #a8cdda;
+  background-color: #c1f6fa;
   padding: 75px 0;
   -webkit-clip-path: polygon(0 0, 100% 10%, 100% 100%, 0 90%);
   clip-path: polygon(0 0, 100% 10%, 100% 100%, 0 90%);
@@ -287,7 +293,7 @@ body {
 }
 
 .portfolio-box__bottom-border {
-  background-color: #f73859;
+  background-color: #4aaaa5;
   height: 10px;
   width: 100%;
   -webkit-clip-path: polygon(5% 0, 100% 0%, 96% 100%, 0% 100%);
@@ -297,7 +303,7 @@ body {
 /*====================*/
 /* ===== RESUME ===== */
 /*====================*/
-
+/* 
 .resume {
   padding: 50px 0;
 }
@@ -404,14 +410,14 @@ body {
 .resume-link__active {
   color: #a8cdda;
   font-weight: 600;
-}
+} */
 
 /*=====================*/
 /* ===== CONTACT ===== */
 /*=====================*/
 
 .contact {
-  background-color: #404b69;
+  background-color: #020c42;
   padding: 75px 0;
   -webkit-clip-path: polygon(0 15%, 100% 0%, 100% 100%, 0 100%);
   clip-path: polygon(0 15%, 100% 0%, 100% 100%, 0 100%);
