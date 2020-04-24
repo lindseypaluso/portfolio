@@ -22,6 +22,7 @@ body {
 
 .section-title {
   background-color: #4aaaa5;
+  margin-top: 50px;
   color: white;
   font-size: 1rem;
   font-weight: 900;
@@ -91,7 +92,7 @@ body {
 }
 
 .title  {
-  padding-top: ;
+  margin-top: 50px;
 }
 
 .title-text {
@@ -243,6 +244,7 @@ body {
 }
 
 .portfolio-box__info {
+  font-family: 'Prompt', sans-serif;
   color: #666;
   font-weight: 200;
   text-align: left;
