@@ -420,6 +420,7 @@ body {
 
 .contact {
   background-color: #020c42;
+  height: 150px;
   padding: 75px 0;
   -webkit-clip-path: polygon(0 15%, 100% 0%, 100% 100%, 0 100%);
   clip-path: polygon(0 15%, 100% 0%, 100% 100%, 0 100%);
