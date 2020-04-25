@@ -55,7 +55,7 @@ body {
 }
 
 .logo {
-  color: #f73859;
+  color: #ed4563;
   font-weight: 900;
 }
 
@@ -72,7 +72,7 @@ body {
 }
 
 .navbar-link:hover {
-  color: #f73859;
+  color: #ed4563;
   cursor: pointer;
 }
 
@@ -259,7 +259,7 @@ body {
 }
 
 .portfolio-box__link {
-  color: #f73859;
+  color: #ed4563;
   font-weight: 900;
   margin: 0;
   padding: 0 10px;
